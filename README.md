@@ -1,8 +1,9 @@
-# Devtools HW 01
-### Выполнение
-[![Julie00 DevTools Homework] ![image](https://github.com/00Julie00/Devtools_practice/assets/115406267/45336bcd-0713-4f1d-b5d5-681e17f3cb80)](https://youtu.be/UlJV4mV3lBA)
-===
-1. Открыть Chrome DevTools
+# Devtools Homework
+## Выполнение
+[![Whatch on](https://github.com/00Julie00/Devtools_practice/assets/115406267/288961cf-74ca-4a15-b62b-76f079c76d48)
+ ](https://youtu.be/UlJV4mV3lBA) 
+================================
+1. Открыть Chrome DevTools 
 2. Зайти в панель Elements.
 3. Найти инспектором кнопку Submit и выровнять слово Submit по центру
 4. Включить режим мобильного деввайса (Device Mode)
